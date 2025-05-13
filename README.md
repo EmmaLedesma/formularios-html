@@ -1,6 +1,6 @@
 # Guía de Formularios HTML - Soluciones
 
-Este repositorio contiene las soluciones a los ejercicios de la Guía de Formularios HTML, implementados con estilos profesionales y responsive design.
+Este repositorio contiene las soluciones a los ejercicios de la Guía de Formularios HTML, implementados con estilos personal y responsive design.
 
 ## Estructura del proyecto
 
