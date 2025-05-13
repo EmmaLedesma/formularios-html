@@ -18,7 +18,7 @@ Este repositorio contiene las soluciones a los ejercicios de la Guía de Formula
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/EmmaLedesma/ejercicios-css.git
+   git clone https://github.com/EmmaLedesma/formularios-html.git
 Abre el archivo index.html en tu navegador
 
 Navega a los diferentes ejercicios usando los enlaces del menú
